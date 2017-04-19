@@ -1,8 +1,7 @@
-# Contributing to [Project]
+# Contributing to [Privacy Brigade]
 
 >Thank you for your interest in contributing to [Privacy Brigade] :tada:! 
 
-Restart your project vision here. Redundancy is your friend
 >[Privacy Brigade] is focused on litrating students/professional/citizens about Privacy & security
 anyone e.g Student/Developers/designers are Welcome to contribute this project
 
