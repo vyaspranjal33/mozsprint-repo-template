@@ -1,6 +1,6 @@
 # [ Privacy brigade ]
 
-[ stay safe](Learn & teach basic security things.]
+[stay safe](Learn & teach basic security things)
 
 ## Getting Started
 
