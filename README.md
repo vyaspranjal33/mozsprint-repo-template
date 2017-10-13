@@ -1,23 +1,16 @@
 # [ Privacy brigade ]
 
+Privacy Brigade is a campaign to try and educate people of how security online works and what steps can be taken to make their activity more sucure and safe, to protect their data and identity.
 [stay safe](Learn & teach basic security things)
 
-## Getting Started
+## Goal of [Privacy Brigade]
 
-[Get Mozilla Firefox ]
-(https://www.mozilla.org/en-US/firefox)
-
-[Learn about Tracking]
-
-(https://www.mozilla.org/en-US/teach/smarton/tracking/)
+Facilitate and educate individuals to participate in developing addons, web-extentions and webapps to promote the conext of online privacy.
+The campaign is driven through the design of posters and flyers and presentations, where we get feedback from people about how their online experience has changed after participating in [Privacy Brigade].
 
 ## Contributing
 
-Thanks for your interest in contributing to [Privacy Brigade]! There are many ways to contribute. To get started, take a look at [CONTRIBUTING.md](CONTRIBUTING.md).
-
-## Participation Guidelines
-
-This project adheres to a [code of conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behavior to [vyaspranjal33@outlook.com].
+If you are interested to contribute to the campaign then have a look at the [CONTRIBUTING.md](CONTRIBUTING.md) documentation.
 
 ## MozSprint
 
