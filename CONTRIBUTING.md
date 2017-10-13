@@ -2,7 +2,7 @@
 Thank you for your interest to contribute to the Privacy Brigade campaign! :tada:
 
 ## Getting Started
-With Privacy Brigade being a Mozilla Community orientated campaign please get [Mozilla Firefox](https://www.mozilla.org/en-US/firefox) and also read up about [tracking](https://www.mozilla.org/en-US/teach/smarton/tracking/).
+With Privacy Brigade being was a Mozilla Community orientated campaign earlier Now its OPEN :smile please get [Mozilla Firefox](https://www.mozilla.org/en-US/firefox) and also read up about [tracking](https://www.mozilla.org/en-US/teach/smarton/tracking/).
 
 ### Writing a talk
 Pick a favourite online activity of yours and put together a talk about the role you can play, through it, within the context of privacy; and what it means to you.
