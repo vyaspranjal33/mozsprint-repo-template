@@ -1,54 +1,29 @@
-# What is [Privacy Brigade]
-
->Privacy brigade is campaign 
-
-# Goals of [Privacy Brigade]
->Teaching about Privacy & security
->developing Addon,webextension,webapp in context of privacy
->designing Posters/flyers
->getting Feedbacks from audience Users/citizens on how their life is going after attending/joining Privacy Brigade
-
 # Contributing to [Privacy Brigade]
+Thank you for your interest to contribute to the Privacy Brigade campaign! :tada:
 
->Thank you for your interest in contributing to [Privacy Brigade] :tada:! 
+## Getting Started
+With Privacy Brigade being a Mozilla Community orientated campaign please get [Mozilla Firefox](https://www.mozilla.org/en-US/firefox) and also read up about [tracking](https://www.mozilla.org/en-US/teach/smarton/tracking/).
 
->[Privacy Brigade] is focused on litrating students/professional/citizens about Privacy & security
-anyone e.g Student/Developers/designers are Welcome to contribute this project
+### Writing a talk
+Pick a favourite online activity of yours and put together a talk about the role you can play, through it, within the context of privacy; and what it means to you.
+Invite your friends, family, teachers and collegues to attend!
 
-to get started pick up your favourite activity you think you can play in context of privacy
+If you dont know how to get started then you can take a look at [this post](https://pranjalvyas.wordpress.com/2017/04/17/privacy-brigade-gp-gandhinagar/) for ideas on how to talk about privacy.
 
-[students]
+### Developing
+If you're intersted in developing and addon, web-extentions or webapp then you can have a look at these resources:
 
-Speak about privacy what it means to you ? invite your friends,teachers,family members
->Don't Know how to start ?
+* [Mozilla API](https://developer.mozilla.org/en-US/docs/Web/Reference/API)
+* [WebExtensions](https://developer.mozilla.org/en-US/Add-ons/WebExtensions)
+* [Progressive Apps](https://developer.mozilla.org/en-US/Apps/Progressive)
 
->take a look at this Post to get idea on how to talk on Privacy
-(https://pranjalvyas.wordpress.com/2017/04/17/privacy-brigade-gp-gandhinagar/)
+If you need some inspiration to then you can read up about [Firefox extentions for privacy security](https://addons.mozilla.org/en-US/firefox/extensions/privacy-security/) or about [Mozilla Lightbeam](https://www.mozilla.org/en-US/lightbeam/)
 
-[Developers]
->how you can write addon/webextension/webapp ? 
-*(https://developer.mozilla.org/en-US/docs/Web/Reference/API)
-*(https://developer.mozilla.org/en-US/Add-ons/WebExtensions)
-*(https://developer.mozilla.org/en-US/Apps/Progressive)
-
->you can get inspiration for writing  from following links 
-
-*(https://addons.mozilla.org/en-US/firefox/extensions/privacy-security/)
-*(https://www.mozilla.org/en-US/lightbeam/)
-
->About Lightbeam
-(https://www.mozilla.org/en-US/lightbeam/about/)
-
-[Designers]
-
-create flyers/posters promoting Privacy & Security,Importance of Privacy On internet
+### Designing
+Create flyers and posters promoting the importance of privacy and security online and how education about it would be valuable for people.
 
 ## Participation guidelines
-
-This project adheres to a [code of conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behavior to [vyaspranjal33@outlook.com].
-
+This project adheres to a [code of conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behavior to (vyaspranjal33)[vyaspranjal33@outlook.com].
 
 ## Communication channels
-for any query/suggestions Send Email to
-(vyaspranjal33@outlook.com)
-
+If you have any queries, comments or feedback please feel free to contact [vyaspranjal33](vyaspranjal33@outlook.com).
