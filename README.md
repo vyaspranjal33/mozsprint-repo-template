@@ -1,6 +1,6 @@
 # [ Privacy brigade ]
 
-Privacy Brigade is a campaign to try and educate people of how security online works and what steps can be taken to make their activity more sucure and safe, to protect their data and identity.
+Privacy Brigade is a campaign to try and educate people of how security online works and what steps can be taken to make their activity more secure and safe, to protect their data and identity.
 [stay safe](Learn & teach basic security things)
 
 ## Goal of [Privacy Brigade]
