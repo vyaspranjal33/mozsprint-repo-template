@@ -19,4 +19,4 @@ Join us at the [Mozilla Global Sprint](http://mozilla.github.io/global-sprint/) 
 ![Global Sprint](https://cloud.githubusercontent.com/assets/617994/24632585/b2b07dcc-1892-11e7-91cf-f9e473187cf7.png)
 
 ## Supporting Partners
-[cyberhex](https://raw.githubusercontent.com/vyaspranjal33/privacy-brigade/tree/master/imgs/pb.jpeg)
+[cyberhex](https://raw.githubusercontent.com/vyaspranjal33/privacy-brigade/master/imgs/pb.jpeg)
