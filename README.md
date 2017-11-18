@@ -19,6 +19,6 @@ Join us at the [Mozilla Global Sprint](http://mozilla.github.io/global-sprint/) 
 ![Global Sprint](https://cloud.githubusercontent.com/assets/617994/24632585/b2b07dcc-1892-11e7-91cf-f9e473187cf7.png)
 
 ## Supporting Partners
-<img src="https://raw.githubusercontent.com/vyaspranjal33/images/master/pb.jpg">
+<img src="https://raw.githubusercontent.com/vyaspranjal33/images/master/pb.jpg" width="250">
 
 
