@@ -10,7 +10,7 @@ The campaign is driven through the design of posters and flyers and presentation
 
 ## Contributing
 
-If you are interested to contribute to the campaign then have a look at the [CONTRIBUTING.md](CONTRIBUTING.md) documentation.
+If you are interested to contribute to the campaign then have a look at the [CONTRIBUTING.md](CONTRIBUTING.md)
 
 ## MozSprint
 
